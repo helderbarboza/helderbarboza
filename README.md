@@ -16,7 +16,7 @@
     />
     <img
       src="https://github-readme-stats.vercel.app/api?username=helderbarboza&card_width=100&theme=dracula&show=prs_merged&show_icons=true&count_private=true&hide_border=true&hide_rank=true"
-      width="270"
+      width="250"
       align="right"
     />
     <!-- w 338 -->
@@ -38,7 +38,7 @@ I have experience building and maintaining applications, ensuring they meet the 
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderbarboza&theme=dracula&hide_border=true&layout=compact"
-    width="270"
+    width="250"
     align="right"
   />
   <!-- w 300 -->
