@@ -27,8 +27,6 @@ I am a software engineer with a strong expertise in Elixir and Phoenix Framework
 
 I have experience building and maintaining applications, ensuring they meet the highest standards of quality and performance. 
 
-Additionally, I have diverse interests that include photography, game development, and graphic design, which allows me to bring a unique perspective and creativity to my work. 
-
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=helderbarboza&theme=dracula&hide_border=true&layout=compact"
@@ -46,10 +44,10 @@ Additionally, I have diverse interests that include photography, game developmen
   <!-- w 300 -->
 </picture>
 
+Additionally, I have diverse interests that include photography, game development, and graphic design, which allows me to bring a unique perspective and creativity to my work. 
+
 I am excited to continue my growth as a software engineer and work on projects that challenge me to learn and innovate.  
 
-
-<br/>
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=helderbarBoza&theme=dracula&hide_border=true&layout=compact"
