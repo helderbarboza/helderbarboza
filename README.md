@@ -47,6 +47,9 @@ I have experience building and maintaining applications, ensuring they meet the 
 Additionally, I have diverse interests that include photography, game development, and graphic design, which allows me to bring a unique perspective and creativity to my work. 
 
 I am excited to continue my growth as a software engineer and work on projects that challenge me to learn and innovate.  
+<br/>
+
+---
 
 <picture>
   <source 
