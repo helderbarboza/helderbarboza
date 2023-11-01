@@ -23,6 +23,8 @@
 
 <h3> Glad to see you here! </h3>
 
+I am a software engineer with a strong expertise in Elixir and Phoenix Framework, dedicated to building high-quality, scalable, and maintainable applications. 
+
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=helderbarboza&theme=dracula&hide_border=true&layout=compact"
@@ -40,11 +42,12 @@
   <!-- w 300 -->
 </picture>
 
-I am a software engineer with a strong expertise in Elixir and Phoenix Framework, dedicated to building high-quality, scalable, and maintainable applications. 
-
 I have experience building and maintaining applications, ensuring they meet the highest standards of quality and performance. 
 
 Additionally, I have diverse interests that include photography, game development, and graphic design, which allows me to bring a unique perspective and creativity to my work. 
+
+
+I am excited to continue my growth as a software engineer and work on projects that challenge me to learn and innovate.  
 
 <picture>
   <source 
@@ -62,7 +65,5 @@ Additionally, I have diverse interests that include photography, game developmen
   />
   <!-- w 495 -->
 </picture>
-
-I am excited to continue my growth as a software engineer and work on projects that challenge me to learn and innovate.  
 
 ![](https://hit.yhype.me/github/profile?user_id=29435727)
