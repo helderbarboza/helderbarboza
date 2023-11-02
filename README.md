@@ -8,7 +8,7 @@
   
 <a href="#">
 <picture>
-<img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&size=14&duration=100&color=e6edf3&repeat=false&vCenter=false&multiline=true&pause=0&random=false&width=576&height=255&lines=I+am+a+software+engineer+with+a+strong+expertise+in+Elixir+and;Phoenix+Framework%2C+dedicated+to+building+high-quality%2C+scalable%2C+and;maintainable+applications.;;I+have+experience+building+and+maintaining+applications%2C+ensuring;they+meet+the+highest+standards+of+quality+and+performance.;;Additionally%2C+I+have+diverse+interests+that+include+photography%2C;game+development%2C+and+graphic+design%2C+which+allows+me+to+bring+a;unique+perspective+and+creativity+to+my+work.;;I+am+excited+to+continue+my+growth+as+a+software+engineer+and+work;on+projects+that+challenge+me+to+learn+and+innovate."/>
+<img src="https://readme-typing-svg.demolab.com?font=Victor+Mono&size=14&duration=500&color=e6edf3&repeat=false&vCenter=false&multiline=true&pause=0&random=false&width=576&height=255&lines=I+am+a+software+engineer+with+a+strong+expertise+in+Elixir+and;Phoenix+Framework%2C+dedicated+to+building+high-quality%2C+scalable%2C+and;maintainable+applications.;;I+have+experience+building+and+maintaining+applications%2C+ensuring;they+meet+the+highest+standards+of+quality+and+performance.;;Additionally%2C+I+have+diverse+interests+that+include+photography%2C;game+development%2C+and+graphic+design%2C+which+allows+me+to+bring+a;unique+perspective+and+creativity+to+my+work.;;I+am+excited+to+continue+my+growth+as+a+software+engineer+and+work;on+projects+that+challenge+me+to+learn+and+innovate."/>
 </picture>
 </a>
 
