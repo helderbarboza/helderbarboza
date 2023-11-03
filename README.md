@@ -20,17 +20,17 @@
 
 <br/>
 
-<a href="https://cal.com/helderbarboza" target="_blank" title="Schedule a call with me">
-  <picture>
-    <source srcset="img/schedule.svg" media="(prefers-color-scheme: dark)" />
-    <img src="img/schedule.svg" width="149" />
-  </picture>
-</a>
-&nbsp;
 <a href="https://linkedin.com/in/helderbarboza" target="_blank" title="LinkedIn profile">
   <picture>
     <source srcset="img/linkedin-dark.svg" media="(prefers-color-scheme: dark)" />
-    <img src="img/linkedin-light.svg" width="105" />
+    <img src="img/linkedin-light.svg" width="105" align="left" />
+  </picture>
+</a>
+&nbsp;
+<a href="https://cal.com/helderbarboza" target="_blank" title="Schedule a call with me">
+  <picture>
+    <source srcset="img/schedule.svg" media="(prefers-color-scheme: dark)" />
+    <img src="img/schedule.svg" width="149" align="right" />
   </picture>
 </a>
 
