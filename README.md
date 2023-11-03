@@ -1,21 +1,21 @@
 <picture>
-  <source srcset="img/Headercontent-dark-1.svg" media="(min-width:846px) and (prefers-color-scheme: dark)" />
+  <source srcset="img/Headercontent-dark-1.svg" media="(min-width:846px) and (prefers-color-scheme: dark)" width="846"/>
   <source srcset="img/Headercontent-dark-2.svg" media="(min-width:622px) and (prefers-color-scheme: dark)" />
   <source srcset="img/Headercontent-dark-3.svg" media="(min-width:0) and (prefers-color-scheme: dark)" />
-  <source srcset="img/Headercontent-light-1.svg" media="(min-width:846px)" />
+  <source srcset="img/Headercontent-light-1.svg" media="(min-width:846px)" width="846"/>
   <source srcset="img/Headercontent-light-2.svg" media="(min-width:622px)" />
   <source srcset="img/Headercontent-light-3.svg" media="(min-width:0)" />
-  <img src="img/Headercontent-light-1.svg" />
+  <img src="img/Headercontent-light-1.svg" width="846" />
 </picture>
 
 <picture>
-  <source srcset="img/Blockcontent-dark-1.svg" media="(min-width:846px) and (prefers-color-scheme: dark)" />
+  <source srcset="img/Blockcontent-dark-1.svg" media="(min-width:846px) and (prefers-color-scheme: dark)" width="846"/>
   <source srcset="img/Blockcontent-dark-2.svg" media="(min-width:622px) and (prefers-color-scheme: dark)" />
   <source srcset="img/Blockcontent-dark-3.svg" media="(min-width:0) and (prefers-color-scheme: dark)" />
-  <source srcset="img/Blockcontent-light-1.svg" media="(min-width:846px)" />
+  <source srcset="img/Blockcontent-light-1.svg" media="(min-width:846px)" width="846" />
   <source srcset="img/Blockcontent-light-2.svg" media="(min-width:622px)" />
   <source srcset="img/Blockcontent-light-3.svg" media="(min-width:0)" />
-  <img src="img/Blockcontent-light-1.svg" />
+  <img src="img/Blockcontent-light-1.svg" width="846" />
 </picture>
 
 <br/>
