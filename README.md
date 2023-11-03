@@ -50,6 +50,7 @@
   />
 </picture>
 
+<br/>
 
 <a href="https://cal.com/helderbarboza" target="_blank" title="Schedule a call with me">
   <picture>
