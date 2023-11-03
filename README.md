@@ -1,31 +1,29 @@
-<h2>
-  <picture>
-    <source
-      srcset="img/Headercontent-dark-1.svg"
-      media="(min-width:846px) and (prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="img/Headercontent-dark-2.svg"
-      media="(min-width:622px) and (prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="img/Headercontent-dark-3.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="img/Headercontent-light-1.svg"
-      media="(min-width:846px)"
-    />
-    <source
-      srcset="img/Headercontent-light-2.svg"
-      media="(min-width:622px)"
-    />
-    <img
-      src="img/Headercontent-light-3.svg"
-    />
-  </picture>
-</h2>
-  
+<picture>
+  <source
+    srcset="img/Headercontent-dark-1.svg"
+    media="(min-width:846px) and (prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="img/Headercontent-dark-2.svg"
+    media="(min-width:622px) and (prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="img/Headercontent-dark-3.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="img/Headercontent-light-1.svg"
+    media="(min-width:846px)"
+  />
+  <source
+    srcset="img/Headercontent-light-2.svg"
+    media="(min-width:622px)"
+  />
+  <img
+    src="img/Headercontent-light-3.svg"
+  />
+</picture>
+
 <picture>
   <source
     srcset="img/Blockcontent-dark-1.svg"
