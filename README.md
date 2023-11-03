@@ -1,7 +1,19 @@
 ## Hey 👋, I'm Helder Barboza!  
 
-<a href="https://linkedin.com/in/helderbarboza" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://cal.com/helderbarboza" target="_blank" title="Schedule a call with me">
+<picture>
+<source srcset="schedule-dark.svg" media="(prefers-color-scheme: dark)" />
+<source srcset="schedule-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+<img src="schedule-light.svg" width="149"/>
+</picture>
+</a>  
+&nbsp;
+<a href="https://linkedin.com/in/helderbarboza" target="_blank" title="LinkedIn profile">
+<picture>
+<source srcset="linkedin-dark.svg" media="(prefers-color-scheme: dark)" />
+<source srcset="linkedin-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+<img src="linkedin-light.svg" width="105" />
+</picture>
 </a>  
 
 <h3> Glad to see you here! </h3>
