@@ -2,7 +2,7 @@
 
 <a href="https://cal.com/helderbarboza" target="_blank" title="Schedule a call with me">
   <picture>
-    <source srcset="img/schedule-dark.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="img/schedule-light.svg" media="(prefers-color-scheme: dark)" />
     <source
       srcset="img/schedule-light.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
