@@ -27,7 +27,7 @@
   </picture>
 </a>
 &nbsp;
-<a href="" target="_blank" title="&#67;&#111;nt&#97;c&#116; me">
+<a href="mail&#116;o&#58;he&#37;6C&#100;&#37;&#54;&#53;r%2E&#100;e%7&#54;&#46;&#99;r&#101;sce&#110;t%3101&#64;&#112;assinb%&#54;Fx&#46;%&#54;3om" target="_blank" title="&#67;&#111;nt&#97;c&#116; me">
   <picture>
     <source srcset="img/email-dark.svg" media="(prefers-color-scheme: dark)" />
     <img src="img/email-light.svg" height="37" />
