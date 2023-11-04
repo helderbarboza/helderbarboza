@@ -1,21 +1,21 @@
 <picture>
-  <source srcset="img/Headercontent-dark-1.svg" media="(min-width:846px) and (prefers-color-scheme: dark)" width="846"/>
+  <source srcset="img/Headercontent-dark-1.svg" media="(min-width:846px) and (prefers-color-scheme: dark)" />
   <source srcset="img/Headercontent-dark-2.svg" media="(min-width:622px) and (prefers-color-scheme: dark)" />
   <source srcset="img/Headercontent-dark-3.svg" media="(min-width:0) and (prefers-color-scheme: dark)" />
-  <source srcset="img/Headercontent-light-1.svg" media="(min-width:846px)" width="846"/>
+  <source srcset="img/Headercontent-light-1.svg" media="(min-width:846px)" />
   <source srcset="img/Headercontent-light-2.svg" media="(min-width:622px)" />
   <source srcset="img/Headercontent-light-3.svg" media="(min-width:0)" />
-  <img src="img/Headercontent-light-1.svg" width="846" />
+  <img src="img/Headercontent-light-1.svg" />
 </picture>
 
 <picture>
-  <source srcset="img/Blockcontent-dark-1.svg" media="(min-width:846px) and (prefers-color-scheme: dark)" width="846"/>
+  <source srcset="img/Blockcontent-dark-1.svg" media="(min-width:846px) and (prefers-color-scheme: dark)" />
   <source srcset="img/Blockcontent-dark-2.svg" media="(min-width:622px) and (prefers-color-scheme: dark)" />
   <source srcset="img/Blockcontent-dark-3.svg" media="(min-width:0) and (prefers-color-scheme: dark)" />
-  <source srcset="img/Blockcontent-light-1.svg" media="(min-width:846px)" width="846" />
+  <source srcset="img/Blockcontent-light-1.svg" media="(min-width:846px)" />
   <source srcset="img/Blockcontent-light-2.svg" media="(min-width:622px)" />
   <source srcset="img/Blockcontent-light-3.svg" media="(min-width:0)" />
-  <img src="img/Blockcontent-light-1.svg" width="846" />
+  <img src="img/Blockcontent-light-1.svg" />
 </picture>
 
 <br/>
@@ -23,14 +23,20 @@
 <a href="https://linkedin.com/in/helderbarboza" target="_blank" title="LinkedIn profile">
   <picture>
     <source srcset="img/linkedin-dark.svg" media="(prefers-color-scheme: dark)" />
-    <img src="img/linkedin-light.svg" width="105" align="left" />
+    <img src="img/linkedin-light.svg" height="37" />
   </picture>
 </a>
 &nbsp;
+<a href="" target="_blank" title="&#67;&#111;nt&#97;c&#116; me">
+  <picture>
+    <source srcset="img/email-dark.svg" media="(prefers-color-scheme: dark)" />
+    <img src="img/email-light.svg" height="37" />
+  </picture>
+</a>
 <a href="https://cal.com/helderbarboza" target="_blank" title="Schedule a call with me">
   <picture>
     <source srcset="img/schedule.svg" media="(prefers-color-scheme: dark)" />
-    <img src="img/schedule.svg" width="149" align="right" />
+    <img src="img/schedule.svg" height="37" align="right" />
   </picture>
 </a>
 
