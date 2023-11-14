@@ -42,6 +42,15 @@
 
 <br/>
 <!--START_SECTION:waka-->
+
+```txt
+Other        7 hrs 30 mins   █████████████████▓░░░░░░░   70.40 %
+Elixir       1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
+Markdown     1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+JSON         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+HTML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29435727)
