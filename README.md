@@ -33,6 +33,7 @@
     <img src="img/email-light.svg" height="37" alt="Email button" />
   </picture>
 </a>
+<sup>or <code>helder.dev.crescent101@passinbox.com</code></sup>
 <a href="https://cal.com/helderbarboza" target="_blank" title="Schedule a call with me">
   <picture>
     <source srcset="img/schedule.svg" media="(prefers-color-scheme: dark)" />
