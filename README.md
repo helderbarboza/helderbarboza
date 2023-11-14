@@ -43,7 +43,7 @@
 <br/>
 <!--START_SECTION:waka-->
 
-```txt
+```julia
 Other        7 hrs 30 mins   ##################.......   70.40 %
 Elixir       1 hr 27 mins    ###......................   13.72 %
 Markdown     1 hr            ##.......................   09.50 %
