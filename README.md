@@ -48,11 +48,7 @@
 <!--START_SECTION:waka-->
 
 ```julia
-Other        5 hrs 27 mins   #######################..   91.86 %
-TypeScript   14 mins         #........................   04.11 %
-Markdown     8 mins          #........................   02.29 %
-HTML         4 mins          .........................   01.15 %
-JSON         2 mins          .........................   00.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
