@@ -48,9 +48,7 @@
 <!--START_SECTION:waka-->
 
 ```julia
-Other      1 hr 51 mins    #######################..   93.16 %
-Markdown   8 mins          ##.......................   06.82 %
-Elixir     0 secs          .........................   00.02 %
+Other   1 hr 6 mins     #########################   100.00 %
 ```
 
 <!--END_SECTION:waka-->
