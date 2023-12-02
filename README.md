@@ -48,7 +48,7 @@
 <!--START_SECTION:waka-->
 
 ```julia
-Other   5 mins          #########################   100.00 %
+Other   3 mins          #########################   100.00 %
 ```
 
 <!--END_SECTION:waka-->
