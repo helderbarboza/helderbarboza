@@ -48,10 +48,8 @@
 <!--START_SECTION:waka-->
 
 ```julia
-Elixir       4 hrs 6 mins    ##################.......   72.75 %
-Other        1 hr 30 mins    #######..................   26.72 %
-Markdown     1 min           .........................   00.41 %
-Git Config   0 secs          .........................   00.13 %
+Elixir   2 hrs 5 mins    #################........   67.79 %
+Other    59 mins         ########.................   32.21 %
 ```
 
 <!--END_SECTION:waka-->
