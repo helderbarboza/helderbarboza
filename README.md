@@ -48,8 +48,7 @@
 <!--START_SECTION:waka-->
 
 ```julia
-Elixir   58 mins         ##############...........   55.12 %
-Other    47 mins         ###########..............   44.88 %
+Other   7 mins          #########################   100.00 %
 ```
 
 <!--END_SECTION:waka-->
