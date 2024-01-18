@@ -48,10 +48,10 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Java         15 hrs 14 mins  ███████████████▌            62.36 %
-Other        5 hrs 9 mins    █████▌                      21.12 %
-Elixir       3 hrs 39 mins   ███▌                        14.96 %
-CSS          17 mins         ▌                           01.18 %
+Java         15 hrs 14 mins  ━━━━━━━━━━━━━━━╸            62.36 %
+Other        5 hrs 9 mins    ━━━━━╸                      21.12 %
+Elixir       3 hrs 39 mins   ━━━╸                        14.96 %
+CSS          17 mins         ╸                           01.18 %
 Markdown     3 mins                                      00.25 %
 ```
 
