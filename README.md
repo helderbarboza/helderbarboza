@@ -48,11 +48,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Java         15 hrs 14 mins  ━━━━━━━━━━━━━━━╸            62.36 %
-Other        5 hrs 9 mins    ━━━━━╸                      21.12 %
-Elixir       3 hrs 39 mins   ━━━╸                        14.96 %
-CSS          17 mins         ╸                           01.18 %
-Markdown     3 mins                                      00.25 %
+Java       17 hrs 42 mins  ━━━━━━━━━━━━━━━━╸           65.26 %
+Other      9 hrs 23 mins   ━━━━━━━━╸                   34.61 %
+Groovy     1 min                                       00.09 %
+JSON       0 secs                                      00.02 %
+Markdown   0 secs                                      00.02 %
 ```
 
 <!--END_SECTION:waka-->
