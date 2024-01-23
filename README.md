@@ -43,7 +43,7 @@
 
 <hr>
 
-### Coding metrics
+### and I've been coding on these lately 
 
 <!--START_SECTION:waka-->
 
