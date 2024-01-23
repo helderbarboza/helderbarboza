@@ -48,11 +48,10 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Other      14 hrs 22 mins  ━━━━━━━━━━━━╸               50.01 %
-Java       13 hrs 26 mins  ━━━━━━━━━━━╸                46.74 %
-Elixir     54 mins         ━                           03.16 %
-Bash       1 min                                       00.08 %
-Markdown   0 secs                                      00.01 %
+Other    20 hrs 2 mins   ━━━━━━━━━━━━━━━━            63.21 %
+Java     10 hrs 44 mins  ━━━━━━━━╸                   33.86 %
+Elixir   54 mins         ╸                           02.86 %
+Bash     1 min                                       00.07 %
 ```
 
 <!--END_SECTION:waka-->
