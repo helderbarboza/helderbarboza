@@ -22,7 +22,7 @@
 
 ### ...and I've been coding on these lately 
 
-What I've been studying or working on the last 30 days.
+What I've been studying or working on the last month.
 
 <!--START_SECTION:waka-->
 
