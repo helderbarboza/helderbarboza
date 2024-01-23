@@ -16,3 +16,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BLOCKS: " ╸━"
           CODE_LANG: rust
+          TIME_RANGE: last_30_days
+          SHOW_MASKED_TIME: true
