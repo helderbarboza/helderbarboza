@@ -20,7 +20,25 @@
   <img src="img/Blockcontent-light-1.svg" alt="Glad to see you here! I am a software engineer with a strong expertise in Elixir and Phoenix Framework, dedicated to building high-quality, scalable, and maintainable applications. I have experience building and maintaining applications, ensuring they meet the highest standards of quality and performance. Additionally, I have diverse interests that include photography, game development, and graphic design, which allows me to bring a unique perspective and creativity to my work. I am excited to continue my growth as a software engineer and work on projects that challenge me to learn and innovate." />
 </picture>
 
-<br/>
+### ...and I've been coding on these lately 
+
+What I've been studying or working on the last 30 days.
+
+<!--START_SECTION:waka-->
+
+```rust
+Total Time: 61 hrs 43 mins
+
+Java              30 hrs 19 mins  ━━━━━━━━━━━━╸               49.13 %
+Other             23 hrs 33 mins  ━━━━━━━━━╸                  38.16 %
+Elixir            4 hrs 46 mins   ━━                          07.74 %
+CSS               43 mins         ╸                           01.17 %
+XML               39 mins         ╸                           01.05 %
+```
+
+<!--END_SECTION:waka-->
+
+### Contact me
 
 <a href="https://linkedin.com/in/helderbarboza" target="_blank" title="LinkedIn profile">
   <picture>
@@ -42,23 +60,5 @@
     <img src="img/schedule.svg" height="37" align="right" alt="Schedule a call button" />
   </picture>
 </a>
-
-<hr>
-
-### and I've been coding on these lately 
-
-<!--START_SECTION:waka-->
-
-```rust
-Total Time: 61 hrs 43 mins
-
-Java              30 hrs 19 mins  ━━━━━━━━━━━━╸               49.13 %
-Other             23 hrs 33 mins  ━━━━━━━━━╸                  38.16 %
-Elixir            4 hrs 46 mins   ━━                          07.74 %
-CSS               43 mins         ╸                           01.17 %
-XML               39 mins         ╸                           01.05 %
-```
-
-<!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29435727)
