@@ -1,12 +1,14 @@
-<picture>
-  <source srcset="img/Headercontent-dark-1.svg" media="(min-width:846px) and (prefers-color-scheme: dark)" />
-  <source srcset="img/Headercontent-dark-2.svg" media="(min-width:622px) and (prefers-color-scheme: dark)" />
-  <source srcset="img/Headercontent-dark-3.svg" media="(min-width:0) and (prefers-color-scheme: dark)" />
-  <source srcset="img/Headercontent-light-1.svg" media="(min-width:846px)" />
-  <source srcset="img/Headercontent-light-2.svg" media="(min-width:622px)" />
-  <source srcset="img/Headercontent-light-3.svg" media="(min-width:0)" />
-  <img src="img/Headercontent-light-1.svg" alt="Hey 👋, I'm Helder Barboza!" />
-</picture>
+<h1>
+  <picture>
+    <source srcset="img/Headercontent-dark-1.svg" media="(min-width:846px) and (prefers-color-scheme: dark)" />
+    <source srcset="img/Headercontent-dark-2.svg" media="(min-width:622px) and (prefers-color-scheme: dark)" />
+    <source srcset="img/Headercontent-dark-3.svg" media="(min-width:0) and (prefers-color-scheme: dark)" />
+    <source srcset="img/Headercontent-light-1.svg" media="(min-width:846px)" />
+    <source srcset="img/Headercontent-light-2.svg" media="(min-width:622px)" />
+    <source srcset="img/Headercontent-light-3.svg" media="(min-width:0)" />
+    <img src="img/Headercontent-light-1.svg" alt="Hey 👋, I'm Helder Barboza!" />
+  </picture>
+</h1>
 
 <picture>
   <source srcset="img/Blockcontent-dark-1.svg" media="(min-width:846px) and (prefers-color-scheme: dark)" />
