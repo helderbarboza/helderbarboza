@@ -20,24 +20,6 @@
   <img src="img/Blockcontent-light-1.svg" alt="Glad to see you here! I am a software engineer with a strong expertise in Elixir and Phoenix Framework, dedicated to building high-quality, scalable, and maintainable applications. I have experience building and maintaining applications, ensuring they meet the highest standards of quality and performance. Additionally, I have diverse interests that include photography, game development, and graphic design, which allows me to bring a unique perspective and creativity to my work. I am excited to continue my growth as a software engineer and work on projects that challenge me to learn and innovate." />
 </picture>
 
-### ...and I am writing some code
-
-What I've been studying or working on the last month.
-
-<!--START_SECTION:waka-->
-
-```rust
-Total Time: 133 hrs 50 mins
-
-Svelte            53 hrs 8 mins   ━━━━━━━━━━                  39.71 %
-Other             39 hrs 4 mins   ━━━━━━━╸                    29.19 %
-TypeScript        26 hrs 14 mins  ━━━━━                       19.61 %
-JavaScript        5 hrs 11 mins   ━                           03.88 %
-JSON              5 hrs 2 mins    ━                           03.77 %
-```
-
-<!--END_SECTION:waka-->
-
 ### Contact me
 
 <a href="https://linkedin.com/in/helderbarboza" target="_blank" title="LinkedIn profile">
@@ -60,5 +42,23 @@ JSON              5 hrs 2 mins    ━                           03.77 %
     <img src="img/schedule.svg" height="37" align="right" alt="Schedule a call button" />
   </picture>
 </a>
+
+### Some stats 
+
+What I've been studying or working on the last month.
+
+<!--START_SECTION:waka-->
+
+```rust
+Total Time: 133 hrs 50 mins
+
+Svelte            53 hrs 8 mins   ━━━━━━━━━━                  39.71 %
+Other             39 hrs 4 mins   ━━━━━━━╸                    29.19 %
+TypeScript        26 hrs 14 mins  ━━━━━                       19.61 %
+JavaScript        5 hrs 11 mins   ━                           03.88 %
+JSON              5 hrs 2 mins    ━                           03.77 %
+```
+
+<!--END_SECTION:waka-->
 
 ![](https://hit.yhype.me/github/profile?user_id=29435727)
