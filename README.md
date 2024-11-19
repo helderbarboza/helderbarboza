@@ -50,7 +50,7 @@ What I've been studying or working on the last month.
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 72 hrs 31 mins
+Total Time: 72 hrs 32 mins
 
 Other        53 hrs 45 mins  ━━━━━━━━━━━━━━━━━━╸         74.12 %
 Svelte       7 hrs 32 mins   ━━╸                         10.39 %
