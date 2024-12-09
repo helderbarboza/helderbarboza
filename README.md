@@ -50,11 +50,11 @@ What I've been studying or working on the last month.
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 42 hrs 18 mins
+Total Time: 42 hrs 16 mins
 
-Other        29 hrs 44 mins  ━━━━━━━━━━━━━━━━━╸          70.31 %
-CSS          4 hrs 37 mins   ━━╸                         10.92 %
-Markdown     3 hrs 45 mins   ━━                          08.87 %
+Other        29 hrs 38 mins  ━━━━━━━━━━━━━━━━━╸          70.14 %
+CSS          4 hrs 37 mins   ━━╸                         10.93 %
+Markdown     3 hrs 45 mins   ━━                          08.88 %
 JavaScript   3 hrs 28 mins   ━━                          08.21 %
 JSON         23 mins                                     00.94 %
 ```
