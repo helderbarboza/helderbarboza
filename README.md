@@ -50,13 +50,13 @@ What I've been studying or working on the last month.
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 47 hrs 50 mins
+Total Time: 47 hrs 49 mins
 
-Other        24 hrs 1 min    ━━━━━━━━━━━━╸               50.23 %
-Markdown     12 hrs 47 mins  ━━━━━━╸                     26.72 %
+Other        24 hrs          ━━━━━━━━━━━━╸               50.21 %
+Markdown     12 hrs 47 mins  ━━━━━━╸                     26.73 %
 Elixir       3 hrs 38 mins   ━━                          07.60 %
 Lua          2 hrs 32 mins   ━╸                          05.31 %
-CSS          1 hr 53 mins    ━                           03.96 %
+CSS          1 hr 53 mins    ━                           03.97 %
 ```
 
 <!--END_SECTION:waka-->
