@@ -50,13 +50,13 @@ What I've been studying or working on the last month.
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 9 hrs 47 mins
+Total Time: 11 hrs 35 mins
 
-HTML         3 hrs 15 mins   ━━━━━━━━╸                   33.31 %
-JavaScript   2 hrs 28 mins   ━━━━━━╸                     25.21 %
-Markdown     1 hr 27 mins    ━━━╸                        14.89 %
-Other        1 hr 2 mins     ━━╸                         10.63 %
-TypeScript   54 mins         ━━╸                         09.24 %
+HTML         4 hrs 21 mins   ━━━━━━━━━╸                  37.62 %
+JavaScript   2 hrs 28 mins   ━━━━━╸                      21.35 %
+Markdown     1 hr 27 mins    ━━━                         12.58 %
+Other        1 hr 5 mins     ━━╸                         09.43 %
+TypeScript   54 mins         ━━                          07.81 %
 ```
 
 <!--END_SECTION:waka-->
