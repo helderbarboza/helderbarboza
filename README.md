@@ -52,11 +52,11 @@ What I've been studying or working on the last month.
 ```rust
 Total Time: 19 hrs 37 mins
 
-HTML         6 hrs 3 mins    ━━━━━━━╸                    30.86 %
-Elixir       3 hrs 48 mins   ━━━━━                       19.36 %
-JavaScript   2 hrs 54 mins   ━━━╸                        14.80 %
+HTML         6 hrs 3 mins    ━━━━━━━╸                    30.87 %
+Elixir       3 hrs 48 mins   ━━━━━                       19.37 %
+JavaScript   2 hrs 54 mins   ━━━╸                        14.81 %
 Markdown     2 hrs 22 mins   ━━━                         12.11 %
-Other        1 hr 48 mins    ━━╸                         09.22 %
+Other        1 hr 52 mins    ━━╸                         09.59 %
 ```
 
 <!--END_SECTION:waka-->
