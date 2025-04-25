@@ -50,13 +50,13 @@ What I've been studying or working on the last month.
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 105 hrs 25 mins
+Total Time: 111 hrs 26 mins
 
-JavaScript       36 hrs 3 mins   ━━━━━━━━╸                   34.21 %
-HTML             21 hrs 23 mins  ━━━━━                       20.29 %
-Other            15 hrs 27 mins  ━━━╸                        14.66 %
-Elixir           10 hrs 30 mins  ━━╸                         09.97 %
-Svelte           5 hrs 35 mins   ━╸                          05.30 %
+JavaScript       35 hrs 43 mins  ━━━━━━━━                    32.06 %
+HTML             20 hrs 40 mins  ━━━━╸                       18.55 %
+Other            19 hrs 22 mins  ━━━━╸                       17.39 %
+Elixir           10 hrs 30 mins  ━━╸                         09.43 %
+Svelte           8 hrs 18 mins   ━━                          07.45 %
 ```
 
 <!--END_SECTION:waka-->
