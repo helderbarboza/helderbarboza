@@ -35,13 +35,13 @@ What I've been studying or working on the last month.
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 94 hrs 45 mins
+Total Time: 103 hrs 46 mins
 
-Other        84 hrs 24 mins  ━━━━━━━━━━━━━━━━━━━━━━╸     89.09 %
-Elixir       4 hrs 55 mins   ━╸                          05.20 %
-Markdown     1 hr 54 mins    ╸                           02.01 %
-JSON         1 hr 37 mins    ╸                           01.71 %
-Docker       31 mins                                     00.56 %
+Other        92 hrs 29 mins  ━━━━━━━━━━━━━━━━━━━━━━╸     89.12 %
+Elixir       5 hrs 19 mins   ━╸                          05.12 %
+JSON         2 hrs 1 min     ╸                           01.96 %
+Markdown     1 hr 54 mins    ╸                           01.83 %
+Docker       31 mins                                     00.51 %
 ```
 
 <!--END_SECTION:waka-->
