@@ -35,10 +35,10 @@ What I've been studying or working on the last month.
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 3 hrs 56 mins
+Total Time: 3 hrs 38 mins
 
-Other    2 hrs 31 mins         ━━━━━━━━━━━━━━━━            63.86 %
-Svelte   1 hr 25 mins          ━━━━━━━━━                   36.14 %
+Other    2 hrs 23 mins         ━━━━━━━━━━━━━━━━╸           65.72 %
+Svelte   1 hr 14 mins          ━━━━━━━━╸                   34.28 %
 ```
 
 <!--END_SECTION:waka-->
