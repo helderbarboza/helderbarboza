@@ -37,9 +37,9 @@ What I've been studying or working on the last month.
 ```rust
 Total Time: 7 hrs 25 mins
 
-Svelte       3 hrs 35 mins         ━━━━━━━━━━━━                48.43 %
-Other        3 hrs 30 mins         ━━━━━━━━━━━━                47.19 %
-JavaScript   19 mins               ━                           04.38 %
+Svelte       3 hrs 35 mins         ━━━━━━━━━━━━                48.40 %
+Other        3 hrs 30 mins         ━━━━━━━━━━━━                47.17 %
+JavaScript   19 mins               ━                           04.43 %
 ```
 
 <!--END_SECTION:waka-->
