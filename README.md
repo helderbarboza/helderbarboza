@@ -40,7 +40,7 @@ Total Time: 91 hrs 23 mins
 Other        27 hrs 58 mins        ━━━━━━━╸                    30.61 %
 JavaScript   17 hrs 55 mins        ━━━━━                       19.62 %
 Rust         14 hrs 27 mins        ━━━━                        15.83 %
-Svelte       13 hrs 16 mins        ━━━╸                        14.52 %
+Svelte       13 hrs 14 mins        ━━━╸                        14.49 %
 TypeScript   4 hrs 28 mins         ━                           04.89 %
 ```
 
