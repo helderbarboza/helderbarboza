@@ -32,13 +32,13 @@ What I've been studying or working on the last month.
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 39 hrs 11 mins
+Total Time: 41 hrs 48 mins
 
-Other        21 hrs 36 mins        ━━━━━━━━━━━━━━              55.15 %
-PHP          5 hrs 56 mins         ━━━━                        15.17 %
-TypeScript   3 hrs 57 mins         ━━╸                         10.08 %
-Rust         2 hrs 8 mins          ━╸                          05.48 %
-Elixir       1 hr 51 mins          ━                           04.75 %
+Other        23 hrs 2 mins         ━━━━━━━━━━━━━━              55.12 %
+PHP          5 hrs 56 mins         ━━━╸                        14.22 %
+TypeScript   5 hrs 13 mins         ━━━                         12.51 %
+Rust         2 hrs 8 mins          ━╸                          05.14 %
+Elixir       1 hr 45 mins          ━                           04.20 %
 ```
 
 <!--END_SECTION:waka-->
